@@ -1,0 +1,40 @@
+univariadas - 15.2
+    - 20 análises
+    - Poucos Gráficos
+    - Erros de Digitação
+    - Nem todos possuem Curtose
+    - Insight válídos
+    - Gráficos com labels sobrepostas
+    - paleta de cores não adequada
+    - Gráficos com análise faltante
+
+multivariadas - 7pts
+    - 6 Gráficos
+    - 4 análises "detalhadas"
+    - Gráficos não possuem legendas
+    - Dificuldade na interpretação de segregação dos dados nos gráficos
+    - não possui análise de distribuição
+    - não possui análise de curtose
+
+Visualizações Efetivas - 15pts
+    - existe melhora em componentes visuais em relação a sua versão anterior
+    - 4 Visualizações efetivas
+    - sem descrição/análise sobre as Visualizações efetivas
+
+Formato e completude da entrega - 14pts
+    - contempla o arquivo .ipynb
+    - possui erros de grámática/digitação/formatação
+    - não atende todos os requisitos de análises
+    - alguns gráficos não atendiam os requisitos de (cor, label, título, legenda), dificultando a compreensão dos dados analisados
+
+Descrição do dataset - 13pts
+    - descrição genérica
+    - descrição genérica de variáveis
+    - descrição de valores nulos
+    - erro de formatação/digitação
+
+
+
+* Obs.:
+Boa descrição da base
+
